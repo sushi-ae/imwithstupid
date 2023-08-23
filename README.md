@@ -12,6 +12,6 @@ these dots may not function properly on your end, I recommend you use these dots
 <br>
 
 <details>
-<summary><b>photo/s</b></summary>
+<summary><b>photo/s</b></summary><br>
 <img src="https://github.com/frapdotbmp/imwithstupid/assets/118438453/ef93f254-6652-43e2-832c-f9850da2d8e4"/>
 </details>
