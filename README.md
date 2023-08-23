@@ -1,5 +1,6 @@
 > **Warning**
-these dots may not function properly on your end, I recommend you use these dots purely for referencing 😱
+my configs may not function correctly on your device
+I recommend you don't use them
 <br>
 
 #### todo
