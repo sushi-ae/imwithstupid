@@ -12,5 +12,5 @@ these dots may not function properly on your end, I recommend you use these dots
 
 <details>
 <summary><b>photo/s</b></summary>
-### soon.
+<h3>soon</h3>
 </details>
