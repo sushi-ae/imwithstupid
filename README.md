@@ -1,6 +1,7 @@
 ### imwithstupid
-this is imwithstupid, my new and ~~improved~~ school and personal setup
-<br>
+this is imwithstupid, my new and ~~improved~~ <br>
+school and personal setup
+<br><br>
 
 > **Warning**
 my configs may not function correctly on your device
