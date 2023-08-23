@@ -1,6 +1,6 @@
 > **Warning**
 my configs may not function correctly on your device
-I recommend you don't use them
+and I recommend you don't use them
 <br>
 
 #### todo
