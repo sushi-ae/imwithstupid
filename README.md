@@ -1,3 +1,7 @@
+### imwithstupid
+this is imwithstupid, my new and ~~improved~~ school and personal setup
+<br>
+
 > **Warning**
 my configs may not function correctly on your device
 and I recommend you don't use them
