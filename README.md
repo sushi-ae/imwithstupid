@@ -19,5 +19,6 @@ and I recommend you don't use them
 
 <details>
 <summary><b>photo/s</b></summary><br>
-<img src="https://github.com/frapdotbmp/imwithstupid/assets/118438453/ef93f254-6652-43e2-832c-f9850da2d8e4"/>
+<img src="https://github.com/frapdotbmp/imwithstupid/assets/118438453/0c22c7f8-ff41-4cb2-95ab-cc2b99a5bb61"/>
 </details>
+
