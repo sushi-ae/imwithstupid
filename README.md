@@ -9,9 +9,9 @@ and I recommend you don't use them
 <br>
 
 #### todo
-[*] fix readme <br>
+~~[*] fix readme~~ <br>
 [ ] add files <br>
-[*] revise titlebar <br>
+~~[*] revise titlebar~~ <br>
 [ ] write new bar <br>
 [ ] hop from void in 2 months <br>
 
