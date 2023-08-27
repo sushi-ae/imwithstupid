@@ -1,0 +1,54 @@
+window:
+  title: Alacritty
+
+  opacity: 1
+
+  padding:
+    x: 15
+    y: 15
+
+  dimensions:
+    columns: 40
+    lines: 11
+
+font:
+  normal:
+    family: IosevkaTerm Nerd Font
+    style: Regular
+
+  bold:
+    family: IosevkaTerm Nerd Font
+    style: Bold
+  
+  size: 7.5
+
+colors:
+  primary:
+    background: '#171717'
+    foreground: '#fafafa'
+  cursor:
+    text:   CellForeground
+    cursor: '#fafafa'
+  
+  normal:
+    black:   '#171717'
+    red:     '#e57474'
+    green:   '#8ccf7e'
+    yellow:  '#e5c76b'
+    blue:    '#67b0e8'
+    magenta: '#c47fd5'
+    cyan:    '#6cbfbf'
+    white:   '#dadada'
+
+  bright:
+    black:   '#171717'
+    red:     '#e57474'
+    green:   '#8ccf7e'
+    yellow:  '#e5c76b'
+    blue:    '#67b0e8'
+    magenta: '#c47fd5'
+    cyan:    '#6cbfbf'
+    white:   '#dadada'
+
+cursor:
+  style: Beam
