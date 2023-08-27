@@ -12,7 +12,7 @@ and I recommend you don't use them
 ~~[*] fix readme~~ <br>
 [ ] add files <br>
 ~~[*] revise titlebar~~ <br>
-[ ] write new bar <br>
+[ ] write a good bar <br>
 [ ] hop from void in 2 months <br>
 
 <br>
