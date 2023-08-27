@@ -10,7 +10,7 @@ and I recommend you don't use them
 
 #### todo
 ~~[*] fix readme~~ <br>
-[ ] add files <br>
+~~[*] add files~~ <br>
 ~~[*] revise titlebar~~ <br>
 [ ] write a good bar <br>
 [ ] hop from void in 2 months <br>
