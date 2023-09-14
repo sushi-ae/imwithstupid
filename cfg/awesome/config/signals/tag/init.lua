@@ -9,6 +9,6 @@ screen.connect_signal('request::desktop_decoration', function(s)
         })
     end)
 
-    awful.tag({" "," "," "," "}, s , awful.layout.layouts[1])
+    awful.tag({"一  ","二  ","三  ","四  ","五  "}, s , awful.layout.layouts[1])
 
 end)

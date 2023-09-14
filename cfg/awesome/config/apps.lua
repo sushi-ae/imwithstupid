@@ -1,7 +1,7 @@
 local _M = {
    terminal    = os.getenv('TERMINAL') or 'alacritty',
-   editor      = os.getenv('EDITOR')   or 'vim',
-   browser     = 'chromiu,',
+   editor      = os.getenv('EDITOR')   or 'neovim',
+   browser     = 'chromium',
    nitrogen    = 'nitrogen',
    files       = 'nemo'
 }

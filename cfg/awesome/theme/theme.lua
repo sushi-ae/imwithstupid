@@ -19,27 +19,34 @@ theme.font = "IosevkaTerm Nerd Font 10"
 theme.titlebar_height = dpi(40)
 theme.titlebar_pos = "top"
 
-theme.tasklist_bg_focus = "#fafafa"
+theme.taglist_fg_focus = "#dfdfdf"
+theme.tasklist_bg_focus = "#171b20"
 
-theme.titlebar_bg_normal = "#171717"
-theme.titlebar_bg_focus = "#171717"
+theme.titlebar_bg_normal = "#171b20"
+theme.titlebar_bg_focus = "#171b20"
 
 -- Colors
-theme.bg_normal     = "#171717"
-theme.bg_focus      = "#303030"
+theme.accent = "#304759"
+
+theme.bg_normal     = "#171b20"
+theme.bg_focus      = "#1e2227"
 theme.bg_urgent     = "#ff2525"
-theme.bg_minimize   = "#151515"
+theme.bg_minimize   = "#141b1e"
 theme.bg_systray    = theme.bg_normal
 
-theme.fg_normal     = "#252525"
-theme.fg_focus      = "#fafafa"
+theme.fg_normal     = "#272b30"
+theme.fg_focus      = "#dfdfdf"
 theme.fg_urgent     = "#fffafa"
 theme.fg_minimize   = "#080808"
 
 theme.useless_gap         = dpi(5)
-theme.border_width        = dpi(3)
-theme.border_color_normal = theme.bg_normal
-theme.border_color_active = theme.bg_normal
+theme.border_width        = dpi(0)
+
+theme.middle_border_color = theme.bg_normal
+theme.innermost_border_color = "#1e2227"
+
+theme.border_color_normal = "#1e2227"
+theme.border_color_active = "#32363b"
 theme.border_color_marked = "#91231c"
 
 -- Rightclick Menu

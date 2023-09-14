@@ -25,6 +25,13 @@ awful.keyboard.append_global_keybindings{
       on_press    = function() ui.mainmenu:show() end,
    },
    awful.key{
+      modifiers = {mod.super},
+      key = 'd',
+      description = '',
+      group = 'awesome',
+      on_press = function() awful.spawn('rofi -show run') end,
+   },
+   awful.key{
       modifiers   = {mod.super, mod.ctrl},
       key         = 'r',
       description = 'reload awesome',

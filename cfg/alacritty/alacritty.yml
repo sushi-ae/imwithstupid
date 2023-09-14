@@ -1,11 +1,14 @@
+env:
+  TERM: xterm-256color
+
 window:
   title: Alacritty
 
   opacity: 1
 
   padding:
-    x: 15
-    y: 15
+    x: 20
+    y: 20
 
   dimensions:
     columns: 40
@@ -13,42 +16,43 @@ window:
 
 font:
   normal:
-    family: IosevkaTerm Nerd Font
+    family: IosevkaTerm Nerd Font Mono
     style: Regular
 
   bold:
-    family: IosevkaTerm Nerd Font
-    style: Bold
+    family: IosevkaTerm Nerd Font Mono
+    style: Semibold
   
-  size: 7.5
+  size: 7
 
 colors:
   primary:
-    background: '#171717'
-    foreground: '#fafafa'
+    background: '#171b20'
+    foreground: '#dfdfdf'
+
   cursor:
-    text:   CellForeground
-    cursor: '#fafafa'
-  
-  normal:
-    black:   '#171717'
-    red:     '#e57474'
-    green:   '#8ccf7e'
-    yellow:  '#e5c76b'
-    blue:    '#67b0e8'
-    magenta: '#c47fd5'
-    cyan:    '#6cbfbf'
-    white:   '#dadada'
+    text: '#252525'
+    cursor: '#dfdfdf'
 
+  # Normal color
   bright:
-    black:   '#171717'
-    red:     '#e57474'
-    green:   '#8ccf7e'
-    yellow:  '#e5c76b'
-    blue:    '#67b0e8'
-    magenta: '#c47fd5'
-    cyan:    '#6cbfbf'
-    white:   '#dadada'
-
+    black:   '#384148'
+    red:     '#fc7b81'
+    green:   '#94f7c5'
+    yellow:  '#ffeba6'
+    blue:    '#8cc1ff'
+    magenta: '#e2a6ff'
+    cyan:    '#90daff'
+    white:   '#fafdff'
+  normal:
+    black:   '#1c252c'
+    red:     '#e05f65'
+    green:   '#78dba9'
+    yellow:  '#f1cf8a'
+    blue:    '#70a5eb'
+    magenta: '#c68aee'
+    cyan:    '#74bee9'
+    white:   '#dee1e6'
 cursor:
   style: Beam
+

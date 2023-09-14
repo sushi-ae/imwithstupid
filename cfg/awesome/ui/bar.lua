@@ -43,9 +43,6 @@ widget = wibox.container.background
 local launcher = awful.widget.launcher{
     image = beautiful.awesome_icon,
     resize = true,
-    clip_shape = function(cr,w,h) 
-        gears.shape.rounded_rect(cr,w,h,6)
-    end,
     menu = mainmenu,
 }
 
@@ -78,7 +75,16 @@ s.tasklist = awful.widget.tasklist {
                             id = "icon_role",
                             widget = wibox.widget.imagebox,
                         },
-                        margins = dpi(12),
+                        top = dpi(6),
+                        bottom = dpi(7),
+                        widget = wibox.container.margin
+                    },
+                    {
+                        {
+                            id = "text_role",
+                            widget = wibox.widget.textbox,
+                        },
+                        margins = dpi(6.5),
                         widget = wibox.container.margin,
                     },
                     layout = wibox.layout.align.horizontal
@@ -99,31 +105,33 @@ s.tasklist = awful.widget.tasklist {
 
 s.mainbar = awful.wibar({
     screen = s,
-    position = "top",
-    width = dpi(500),
-    height = dpi(45),
-    margins = {top=dpi(10)},
-    stretch = false,
+    position = "bottom",
+    --width = dpi(1200),
+    height = dpi(50),
+    --margins = {top=dpi(10)},
+    --stretch = false,
 
 -- bar config
 }):setup {
         {
             {
                 launcher,
-                margins = 12,
+                margins = 14,
                 widget = wibox.container.margin
             },
+            s.taglist,
             layout = wibox.layout.align.horizontal
         },
         {
-            cloc,
-            halign = 'center',
-            layout = wibox.container.place
+            s.tasklist,
+            margins = dpi(9),
+            widget = wibox.container.margin
         },
         {
             {
-                s.taglist,
-                right = 8,
+                cloc,
+                top = dpi(16),
+                right = dpi(14),
                 widget = wibox.container.margin
             },
             layout = wibox.layout.align.horizontal

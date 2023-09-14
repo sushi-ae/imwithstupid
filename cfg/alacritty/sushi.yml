@@ -11,14 +11,14 @@ window:
 
 font:
   normal:
-    family: cozette
+    family: IosevkaTerm Nerd Font Mono
     style: Medium
 
   bold:
-    family: cozette
+    family: IosevkaTerm Nerd Font Mono
     style: Bold
 
-size: 600000
+  size: 7.5
 
 colors:
   primary:
