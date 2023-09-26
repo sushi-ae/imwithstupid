@@ -8,14 +8,14 @@ my configs may not function correctly on your device
 and I recommend you don't use them
 <br>
 
-![2023-09-14_22-38](https://github.com/frapdotbmp/imwithstupid/assets/118438453/acfec39c-1a67-42a2-a59d-5d793715cabd)
+![2023-09-26_23-48](https://github.com/sushi-ae/imwithstupid/assets/118438453/122eec57-7958-4f0b-90fe-50ecc57920e1)
 
 <br>
 
 - [ ] make it better
-- [ ] remaster bar
+- [x] remaster bar
 - [x] triple border support
-- [ ] titlebar in border??? (wtf???)
+- [x] titlebar in border??? (wtf???)
 
 <br>
 
