@@ -1,14 +1,8 @@
-### imwithstupid
-this is imwithstupid, my new and ~~improved~~ <br>
-school and personal setup
+### dotfils
+My old dotfiles repository got really messy especially with my awesomewm config. So I just decided to create a whole new repository altogether.
 <br><br>
 
-> **Warning**
-my configs may not function correctly on your device
-and I recommend you don't use them
-<br>
-
-![2023-09-26_23-48](https://github.com/sushi-ae/imwithstupid/assets/118438453/122eec57-7958-4f0b-90fe-50ecc57920e1)
+![test](https://github.com/user-attachments/assets/7047c318-dd19-4863-a8ea-e99685f7e471)
 
 <br>
 
