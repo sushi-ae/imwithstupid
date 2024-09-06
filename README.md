@@ -11,6 +11,8 @@ STATUS: Not Updated
 
 - [ ] make it better
 - [x] remaster bar
+- [ ] dashboard
+- [ ] launcher
 - [x] triple border support
 - [x] titlebar in border??? (wtf???)
 
